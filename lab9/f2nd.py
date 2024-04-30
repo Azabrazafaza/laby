@@ -97,3 +97,5 @@ while run:
                     activeShape = i[1]
 
     pygame.display.flip()  # Update Screen
+
+    ()
